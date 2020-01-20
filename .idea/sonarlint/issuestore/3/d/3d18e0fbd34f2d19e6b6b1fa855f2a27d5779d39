@@ -1,0 +1,22 @@
+
+csquid:S2184â"FCast one of the operands of this multiplication operation to a "long".(ÏÐ’ïüÿÿÿÿ
+nsquid:S00117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õùñêøÿÿÿÿ
+osquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…áÛ•úÿÿÿÿ
+osquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü›¥üýÿÿÿÿ
+esquid:MaximumInheritanceDepth-"<This class has 6 parents which is greater than 5 authorized.(çÀ¡á
+žsquid:S1186ð"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ÆÌ¶øÿÿÿÿ
+™squid:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¿í
+tsquid:S001163"WRename this field "fused_client" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø³ãºýÿÿÿÿ
+osquid:S001168"RRename this field "User_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¶öúÿÿÿÿ
+fsquid:S00100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—›¥Ç
+@squid:S1185ˆ"(Remove this method to simply inherit it.(Ù«µ§
+lsquid:S00100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü›¥üýÿÿÿÿ
+Lsquid:S1172È"/Remove this unused method parameter "geofence".(¯ñÙßüÿÿÿÿ
+Rsquid:S2209é"5Change this instance-reference to a static reference.(ô¶Í—øÿÿÿÿ
+fsquid:CallToDeprecatedMethodì"8Remove this use of "FusedLocationApi"; it is deprecated.(ØúÎºùÿÿÿÿ
+lsquid:S00100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øçûïýÿÿÿÿ
+U
+squid:S106—"9Replace this use of System.out or System.err by a logger.(»Š®ùÿÿÿÿ
+gsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(Žã¯ÿÿÿÿÿ
+csquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(’Ü´‹
+csquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(¦ß§Ò

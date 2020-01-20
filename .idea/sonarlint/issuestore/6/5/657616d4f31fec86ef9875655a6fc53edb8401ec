@@ -1,0 +1,7 @@
+
+Lsquid:S1066³"/Merge this if statement with the enclosing one.(¨òÔçùÿÿÿÿ
+Qsquid:UselessImportCheck".Remove this unused import 'android.os.Looper'.(âå
+{squid:S14501"_Remove the "mLocationRequest" field and declare it as a local variable in the relevant methods.(ÍØÿÿÿÿÿ
+nsquid:S001168"VRename this field "not_manager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅŞÆá
+^squid:S1854×"ARemove this useless assignment to local variable "pendingIntent".(ÈÔ²ˆüÿÿÿÿ
+Osquid:S1481×"2Remove this unused "pendingIntent" local variable.(ÈÔ²ˆüÿÿÿÿ

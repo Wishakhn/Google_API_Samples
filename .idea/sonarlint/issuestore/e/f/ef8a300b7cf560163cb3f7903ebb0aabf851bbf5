@@ -1,0 +1,25 @@
+
+isquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áò…½
+isquid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÌşƒ
+nsquid:S001171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»î†üÿÿÿÿ
+isquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ´õ±
+nsquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹üŸ—ùÿÿÿÿ
+squid:UselessImportCheck"XRemove this unused import 'com.example.multiplemarkersgooglemap.GeofenceApp.CHANNEL_ID'.(½­ÕŞùÿÿÿÿ
+squid:UselessImportCheck"]Remove this unused import 'com.example.multiplemarkersgooglemap.GeofenceApp.NOTIFICATION_ID'.(½úè—
+‹squid:UselessImportCheck"bRemove this unused import 'com.example.multiplemarkersgooglemap.GeofenceApp.STARTED_NOTIFICATION'.(­‚µÿÿÿÿÿÿ
+ysquid:UselessImportCheck"URemove this unused import 'com.example.multiplemarkersgooglemap.GeofenceApp.manager'.(¹±Â™
+`squid:UselessImportCheck"<Remove this unused import 'androidx.annotation.RequiresApi'.(å„» 
+Zsquid:UselessImportCheck"6Remove this unused import 'android.app.PendingIntent'.(šºŞ—
+Vsquid:UselessImportCheck	"-Remove this unused import 'android.os.Build'.(ãÇ¤Úıÿÿÿÿ
+Xsquid:UselessImportCheck"5Remove this unused import 'android.app.Notification'.(¸Ó†9
+xsquid:S00116"[Rename this field "geofence_details" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïİåùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‡æéşÿÿÿÿ
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(òŞÔûÿÿÿÿ
+O
+squid:S106("9Replace this use of System.out or System.err by a logger.(ğ×Ÿ·
+O
+squid:S1063"9Replace this use of System.out or System.err by a logger.(©†õõ
+gsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(ºøèõıÿÿÿÿ
+gsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(–ó©úÿÿÿÿ

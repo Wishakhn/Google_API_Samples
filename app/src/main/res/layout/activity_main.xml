@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    android:background="#f4f4f4"
+    android:gravity="center"
+    tools:context=".MainActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:gravity="center"
+    android:layout_weight="1">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#238383"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:text="GOOGLE MAP APP"/>
+</LinearLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8.5"
+        android:layout_marginTop="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_margin="30dp"
+            android:background="#f1f8e9">
+
+            <Button
+                android:id="@+id/btn1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn1_background"
+                android:text="Find a Location"
+                android:padding="20dp"
+                android:fontFamily="monospace"
+                android:textColor="#FFFF"/>
+            <Button
+                android:id="@+id/btn2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn2_background"
+                android:text="Current Location"
+                android:padding="20dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="monospace"
+                android:textColor="#FFF"/>
+            <Button
+                android:id="@+id/btn3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn3_background"
+                android:text="Location Markers"
+                android:layout_marginTop="20dp"
+                android:padding="20dp"
+                android:fontFamily="monospace"
+                android:textColor="#FFFF"/>
+            <Button
+                android:id="@+id/btn4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn4_background"
+                android:text="Geofence Monitor"
+                android:layout_marginTop="20dp"
+                android:padding="20dp"
+                android:fontFamily="monospace"
+                android:textColor="#FFFF"/>
+            <Button
+                android:id="@+id/btng"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btng_background"
+                android:text="Google Sign In Account"
+                android:padding="20dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="monospace"
+                android:textColor="#FFF"/>
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

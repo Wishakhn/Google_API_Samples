@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:weightSum="10"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:text="WELCOME!"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="#F44336"/>
+    <LinearLayout
+        android:id="@+id/signin_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:weightSum="7"
+        android:visibility="visible"
+        android:layout_weight="8"
+        android:gravity="center">
+      <!--  <com.google.android.gms.common.SignInButton
+            android:id="@+id/sign_in_button"
+            android:layout_marginTop="10dp"
+            android:layout_width="200dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>-->
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/sign_in_button"
+            android:text="Sign In"
+            />
+    </LinearLayout>
+
+  <LinearLayout
+      android:id="@+id/signinscreen"
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:layout_weight="8"
+      android:orientation="vertical"
+      android:visibility="gone"
+      android:weightSum="8">
+      <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:layout_weight="3"
+      android:gravity="center">
+
+      <ImageView
+          android:id="@+id/profileImage"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:src="@drawable/ic_launcher_background" />
+  </LinearLayout>
+
+      <LinearLayout
+          android:id="@+id/name_container"
+          android:layout_width="match_parent"
+          android:layout_height="0dp"
+          android:layout_weight="1.5"
+          android:orientation="horizontal"
+          android:layout_centerInParent="true"
+          android:weightSum="4"
+          android:gravity="center"
+          >
+          <TextView
+              android:layout_width="0dp"
+              android:layout_weight="1"
+              android:text="USERNAME :"
+              android:layout_height="wrap_content"
+              android:textColor="#59B307"/>
+          <TextView
+              android:id="@+id/name"
+              android:layout_width="0dp"
+              android:layout_weight="2.5"
+              android:layout_height="wrap_content"
+              android:textColor="#3F51B5"/>
+
+      </LinearLayout>
+      <LinearLayout
+          android:id="@+id/mail_container"
+          android:layout_width="match_parent"
+          android:layout_height="0dp"
+          android:layout_weight="1.5"
+          android:orientation="horizontal"
+          android:layout_centerInParent="true"
+          android:weightSum="4"
+          android:gravity="center"
+          >
+          <TextView
+              android:layout_width="0dp"
+              android:layout_weight="1"
+              android:text="EMAIL :"
+              android:layout_height="wrap_content"
+              android:textColor="#59B307"/>
+          <TextView
+              android:id="@+id/email"
+              android:layout_width="0dp"
+              android:layout_weight="2.5"
+              android:layout_height="wrap_content"
+              android:textColor="#3F51B5"/>
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="0dp"
+          android:layout_weight="2"
+          android:gravity="center">
+          <Button
+              android:id="@+id/signout"
+              android:layout_width="150dp"
+              android:layout_height="wrap_content"
+              android:text="Sign Out"
+              android:textColor="#3F51B5"
+              android:padding="10dp"
+              android:fontFamily="monospace"
+              android:textSize="15sp"
+              android:background="#FFE53B"/>
+      </LinearLayout></LinearLayout>
+
+</LinearLayout>

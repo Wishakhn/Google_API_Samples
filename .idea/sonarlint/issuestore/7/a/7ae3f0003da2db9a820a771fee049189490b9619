@@ -1,0 +1,34 @@
+
+csquid:S2184"FCast one of the operands of this multiplication operation to a "long".(ÏĞ’ïüÿÿÿÿ
+Bsquid:S5411Ì"*Use the primitive boolean expression here.(–”ü¸
+osquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õùñêøÿÿÿÿ
+osquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…áÛ•úÿÿÿÿ
+osquid:S00117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü›¥üıÿÿÿÿ
+nsquid:UselessImportCheck#"ERemove this unused import 'com.google.android.gms.maps.CameraUpdate'.(‘Èİ…úÿÿÿÿ
+fsquid:UselessImportCheck"=Remove this unused import 'androidx.annotation.WorkerThread'.(Ê®Úûÿÿÿÿ
+`squid:UselessImportCheck2"7Remove this unused import 'javax.xml.transform.Result'.(âÓ¸ûÿÿÿÿ
+]squid:UselessImportCheck
+"4Remove this unused import 'android.app.job.JobInfo'.(÷Âİãúÿÿÿÿ
+]squid:UselessImportCheck"9Remove this unused import 'android.app.job.JobScheduler'.(™À½«
+jsquid:MaximumInheritanceDepth7"<This class has 6 parents which is greater than 5 authorized.(©İùÿÿÿÿ
+?squid:S1659A"(Declare "usermarker" on a separate line.(¶¯±É
+squid:S1186ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ÆÌ¶øÿÿÿÿ
+™squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¿í
+tsquid:S00116?"WRename this field "fused_client" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø³ãºıÿÿÿÿ
+ssquid:S00116G"VRename this field "loc_service" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğå³şÿÿÿÿ
+Ksquid:S1172t"/Remove this unused method parameter "geofence".(¯ñÙßüÿÿÿÿ
+]squid:CallToDeprecatedMethodu"5Remove this use of "GeofencingApi"; it is deprecated.(‡Á„Å
+lsquid:S00100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü›¥üıÿÿÿÿ
+gsquid:S00100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—›¥Ç
+Rsquid:S2209ô"5Change this instance-reference to a static reference.(ô¶Í—øÿÿÿÿ
+fsquid:CallToDeprecatedMethod÷"8Remove this use of "FusedLocationApi"; it is deprecated.(ØúÎºùÿÿÿÿ
+lsquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øçûïıÿÿÿÿ
+@squid:S1185¢"(Remove this method to simply inherit it.(Ù«µ§
+Nsquid:S2696¬"6Make the enclosing method "static" or remove this set.(ÌÆ¸õ
+Ssquid:S2696²"6Make the enclosing method "static" or remove this set.(È«°üÿÿÿÿ
+lsquid:S00100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÚĞÖûÿÿÿÿ
+Ssquid:S2696¸"6Make the enclosing method "static" or remove this set.(È«°üÿÿÿÿ
+gsquid:S00100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¯­·
+Nsquid:S2696¾"6Make the enclosing method "static" or remove this set.(ÌÆ¸õ
+Ssquid:S2696Î"6Make the enclosing method "static" or remove this set.(È«°üÿÿÿÿ
+ksquid:UnusedPrivateMethod¶"@Remove this unused private "StopLocationTrackingService" method.(çÚĞÖûÿÿÿÿ

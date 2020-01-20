@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultipleMarkersGoogleMap</string>
+    <string name="title_activity_self_locate">Map</string>
+    <string name="googlemap_key">Your google map api key</string>
+    <string name="clientSecret">client secret id </string>
+    <string name="client_Id">your google console client id</string>
+
+
+</resources>
